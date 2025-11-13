@@ -169,8 +169,8 @@ body {
 /* Experience Section */
 .experience-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
     margin-top: 50px;
 }
 
@@ -189,7 +189,15 @@ body {
 .experience-card h3 {
     color: #2c3e50;
     margin-bottom: 20px;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.experience-card h3 i {
+    color: #3498db;
+    font-size: 1.1rem;
 }
 
 .experience-card ul {
@@ -211,8 +219,8 @@ body {
 /* Skills Section */
 .skills-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
     margin-top: 50px;
 }
 
