@@ -1,4 +1,4 @@
-# Senior QA Manager Portfolio
+# Senior Manager Portfolio
 
 A modern, responsive portfolio website showcasing 18+ years of IT experience in quality assurance, test architecture, and project management.
 
